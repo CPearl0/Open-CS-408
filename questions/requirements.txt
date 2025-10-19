@@ -1,2 +1,4 @@
 tkinter
 Pillow
+reportlab
+pypdf
